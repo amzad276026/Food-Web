@@ -352,6 +352,11 @@ i:hover {
     font-weight: 400;
     position: relative;
     letter-spacing: 2px;
+    transition: 0.3s all ease;
+    -webkit-transition: 0.3s all ease;
+    -moz-transition: 0.3s all ease;
+    -ms-transition: 0.3s all ease;
+    -o-transition: 0.3s all ease;
 }
 .navbar-wrapper .navbar .nav-links li a::before {
     content: "";
