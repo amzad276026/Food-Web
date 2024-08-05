@@ -452,9 +452,8 @@ span {
     align-items: center;
     padding: 0 20px;
 }
-.about-wrapper .about-container .about-image img {
-    max-width: 600px;
-    object-fit: cover;
+.about-wrapper .about-container .about-image{
+    flex-basis: 600px;
 }
 .about-wrapper .about-container .about-content h1 {
     font-size: 6rem;
@@ -813,8 +812,8 @@ span {
     align-items: center;
     padding: 20px 20px;
 }
-.order-wrapper .order-container .order-image img {
-    max-width: 600px;
+.order-wrapper .order-container .order-image{
+    flex-basis: 600px;
 }
 .order-wrapper .order-container .order-form {
     display: block;
