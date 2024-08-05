@@ -30,7 +30,6 @@
     .about-wrapper .about-container {
         flex-direction: column;
         row-gap: 20px;
-        justify-content: center;
     }
     .footer-wrapper .footer-container {
         flex-direction: column;
