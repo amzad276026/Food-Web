@@ -343,6 +343,7 @@ i:hover {
     width: 100px;
     height: 50px;
     object-fit: cover;
+    background: var(--colorGrayDark);
 }
 .navbar-wrapper .navbar .nav-links {
     display: flex;
@@ -442,6 +443,8 @@ span {
     max-width: 700px;
     max-height: 557px;
     object-fit: cover;
+    background: var(--colorGrayDark);
+
 }
 /* About Us Section */
 .about-wrapper .about-container {
@@ -543,6 +546,8 @@ span {
     -moz-transform: scale(1);
     -ms-transform: scale(1);
     -o-transform: scale(1);
+    background: var(--colorGrayDark);
+
 }
 .menu-wrapper .menu-container .menu-item .menu-content h2 {
     color: var(--colorYellow);
@@ -573,6 +578,7 @@ span {
     -moz-transform: scale(1.03);
     -ms-transform: scale(1.03);
     -o-transform: scale(1.03);
+
 }
 
 /* Our Gallery Section Style */
@@ -613,6 +619,8 @@ span {
     -moz-border-radius: 10px;
     -ms-border-radius: 10px;
     -o-border-radius: 10px;
+    background: var(--colorGrayDark);
+
 }
 .gallery-wrapper .gallery-container .gallery-image .img-overlay {
     visibility: hidden;
@@ -716,6 +724,8 @@ span {
     -ms-transition: 0.3s all ease;
     -o-transition: 0.3s all ease;
     margin-bottom: 50px;
+    background: var(--colorGrayDark);
+
 }
 .review-wrapper .review-container .reviw-item h2 {
     position: relative;
@@ -755,6 +765,7 @@ span {
     -moz-transform: translateY(-100px);
     -ms-transform: translateY(-100px);
     -o-transform: translateY(-100px);
+
 }
 .review-wrapper .review-container .reviw-item:hover h2 {
     transform: translateY(-70px);
@@ -921,6 +932,8 @@ span {
     -moz-transition: 0.3s all ease;
     -ms-transition: 0.3s all ease;
     -o-transition: 0.3s all ease;
+    background: var(--colorGrayDark);
+
 }
 .team-wrapper .team-container .team-item:hover .team-item-image img {
     margin-top: -230px;
@@ -975,6 +988,8 @@ span {
 .footer-wrapper .footer-container .footer-logo img {
     opacity: 0.6;
     width: 200px;
+    background: var(--colorGrayDark);
+
 }
 .footer-wrapper .footer-container li {
     margin: 10px 0;
